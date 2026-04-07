@@ -112,4 +112,4 @@ You can explore these directly from the "Demo Accounts" section on the login pag
 
 ---
 
-Designed with 💚 by **Rishabh Vishwakarma**
+Designed with 💚 by **Ashwani Yadav**
